@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BangkitNavigationApi</string>
+    <string name="searchbar_hint">Masukkan username</string>
+    <string name="count_followers">%d Followers</string>
+    <string name="count_following">%d Following</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="empty_data">Tidak ada data yang tersedia</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
